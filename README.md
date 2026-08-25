@@ -1,5 +1,5 @@
 ### Hello!
-I am a passionate Scratch programmer. Solo developer who works on interesting projects in my free time while also training my fundamental logical skills, as a computer cannot correct you even if you make an obvious error!. In recent years, I have decided to make high-quality games that can be played for a long time, or repeatedly, that aim to show the unique capabilities of Scratch.
+I am a Scratch programmer. Solo developer who works on interesting projects in my free time while also training my fundamental logical skills, as a computer cannot correct you even if you make an obvious error!. In recent years, I have decided to make high-quality games that can be played for a long time, or repeatedly, that aim to show the unique capabilities of Scratch.
 
 ## My workflow
 I would make a game incrementally in Scratch, and then package it in TurboWarp to reduce lag, increase loading speeds, have high-quality pen, e.t.c. Over the course of days or weeks, something interesting would come out.
